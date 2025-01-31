@@ -48,7 +48,7 @@ sudo chown -R $USER:$USER ~/web-esg
 # Clone repository
 echo "Cloning repository..."
 cd ~/web-esg
-git clone https://github.com/yourusername/web-esg.git .  # Replace with your actual repo URL
+git clone https://github.com/Picalexdev/web-esg.git .  # Replace with your actual repo URL
 
 # Create environment file
 echo "Setting up environment..."
